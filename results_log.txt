@@ -1,0 +1,366 @@
+
+=== USA — Method 3 — without heuristics ===
+success=True, backtracks=0, elapsed_ns=26692600
+AL: Red
+AR: Red
+AZ: Red
+CA: Blue
+CO: Red
+CT: Red
+DE: Red
+FL: Blue
+GA: Green
+IA: Red
+ID: Red
+IL: Blue
+IN: Red
+KS: Blue
+KY: Green
+LA: Blue
+MA: Blue
+MD: Blue
+ME: Red
+MI: Blue
+MN: Blue
+MO: Yellow
+MS: Green
+MT: Green
+NC: Red
+ND: Red
+NE: Green
+NH: Green
+NJ: Blue
+NM: Blue
+NV: Green
+NY: Yellow
+OH: Yellow
+OK: Green
+OR: Yellow
+PA: Green
+RI: Green
+SC: Blue
+SD: Yellow
+TN: Blue
+TX: Yellow
+UT: Yellow
+VA: Yellow
+VT: Red
+WA: Blue
+WI: Green
+WV: Red
+WY: Blue
+
+=== USA — Method 3 — with heuristics ===
+success=True, backtracks=0, elapsed_ns=33555600
+AL: Green
+AR: Green
+AZ: Red
+CA: Yellow
+CO: Red
+CT: Blue
+DE: Red
+FL: Blue
+GA: Red
+IA: Green
+ID: Red
+IL: Blue
+IN: Yellow
+KS: Green
+KY: Green
+LA: Blue
+MA: Green
+MD: Yellow
+ME: Blue
+MI: Blue
+MN: Blue
+MO: Red
+MS: Red
+MT: Blue
+NC: Green
+ND: Green
+NE: Blue
+NH: Red
+NJ: Blue
+NM: Green
+NV: Green
+NY: Red
+OH: Red
+OK: Blue
+OR: Blue
+PA: Green
+RI: Red
+SC: Blue
+SD: Red
+TN: Blue
+TX: Red
+UT: Blue
+VA: Red
+VT: Blue
+WA: Green
+WI: Red
+WV: Blue
+WY: Green
+
+=== Australia — Method 3 — without heuristics ===
+success=True, backtracks=0, elapsed_ns=484900
+NSW: Red
+NT: Red
+QLD: Blue
+SA: Green
+TAS: Red
+VIC: Blue
+WA: Blue
+
+=== Australia — Method 3 — with heuristics ===
+success=True, backtracks=0, elapsed_ns=511300
+NSW: Blue
+NT: Blue
+QLD: Green
+SA: Red
+TAS: Red
+VIC: Green
+WA: Green
+
+=== USA — Method 2 — without heuristics ===
+success=True, backtracks=910, elapsed_ns=251043800
+AL: Red
+AR: Red
+AZ: Red
+CA: Blue
+CO: Red
+CT: Red
+DE: Red
+FL: Blue
+GA: Green
+IA: Red
+ID: Red
+IL: Blue
+IN: Red
+KS: Blue
+KY: Green
+LA: Blue
+MA: Blue
+MD: Blue
+ME: Red
+MI: Blue
+MN: Blue
+MO: Yellow
+MS: Green
+MT: Green
+NC: Red
+ND: Red
+NE: Green
+NH: Green
+NJ: Blue
+NM: Blue
+NV: Green
+NY: Yellow
+OH: Yellow
+OK: Green
+OR: Yellow
+PA: Green
+RI: Green
+SC: Blue
+SD: Yellow
+TN: Blue
+TX: Yellow
+UT: Yellow
+VA: Yellow
+VT: Red
+WA: Blue
+WI: Green
+WV: Red
+WY: Blue
+
+=== USA — Method 2 — with heuristics ===
+success=True, backtracks=0, elapsed_ns=25185600
+AL: Green
+AR: Green
+AZ: Red
+CA: Yellow
+CO: Red
+CT: Blue
+DE: Red
+FL: Blue
+GA: Red
+IA: Green
+ID: Red
+IL: Blue
+IN: Yellow
+KS: Green
+KY: Green
+LA: Blue
+MA: Green
+MD: Yellow
+ME: Blue
+MI: Blue
+MN: Blue
+MO: Red
+MS: Red
+MT: Blue
+NC: Green
+ND: Green
+NE: Blue
+NH: Red
+NJ: Blue
+NM: Green
+NV: Green
+NY: Red
+OH: Red
+OK: Blue
+OR: Blue
+PA: Green
+RI: Red
+SC: Blue
+SD: Red
+TN: Blue
+TX: Red
+UT: Blue
+VA: Red
+VT: Blue
+WA: Green
+WI: Red
+WV: Blue
+WY: Green
+
+=== Australia — Method 2 — without heuristics ===
+success=True, backtracks=0, elapsed_ns=299300
+NSW: Red
+NT: Red
+QLD: Blue
+SA: Green
+TAS: Red
+VIC: Blue
+WA: Blue
+
+=== Australia — Method 2 — with heuristics ===
+success=True, backtracks=0, elapsed_ns=316000
+NSW: Blue
+NT: Blue
+QLD: Green
+SA: Red
+TAS: Red
+VIC: Green
+WA: Green
+
+=== USA — Method 1 — without heuristics ===
+success=True, backtracks=15099, elapsed_ns=162875400
+AL: Red
+AR: Red
+AZ: Red
+CA: Blue
+CO: Red
+CT: Red
+DE: Red
+FL: Blue
+GA: Green
+IA: Red
+ID: Red
+IL: Blue
+IN: Red
+KS: Blue
+KY: Green
+LA: Blue
+MA: Blue
+MD: Blue
+ME: Red
+MI: Blue
+MN: Blue
+MO: Yellow
+MS: Green
+MT: Green
+NC: Red
+ND: Red
+NE: Green
+NH: Green
+NJ: Blue
+NM: Blue
+NV: Green
+NY: Yellow
+OH: Yellow
+OK: Green
+OR: Yellow
+PA: Green
+RI: Green
+SC: Blue
+SD: Yellow
+TN: Blue
+TX: Yellow
+UT: Yellow
+VA: Yellow
+VT: Red
+WA: Blue
+WI: Green
+WV: Red
+WY: Blue
+
+=== USA — Method 1 — with heuristics ===
+success=True, backtracks=0, elapsed_ns=1457100
+AL: Green
+AR: Green
+AZ: Red
+CA: Yellow
+CO: Red
+CT: Green
+DE: Blue
+FL: Blue
+GA: Red
+IA: Blue
+ID: Red
+IL: Yellow
+IN: Blue
+KS: Yellow
+KY: Green
+LA: Blue
+MA: Red
+MD: Yellow
+ME: Red
+MI: Green
+MN: Green
+MO: Red
+MS: Red
+MT: Green
+NC: Green
+ND: Blue
+NE: Green
+NH: Blue
+NJ: Red
+NM: Green
+NV: Blue
+NY: Blue
+OH: Red
+OK: Blue
+OR: Green
+PA: Green
+RI: Blue
+SC: Blue
+SD: Red
+TN: Blue
+TX: Red
+UT: Green
+VA: Red
+VT: Green
+WA: Blue
+WI: Red
+WV: Blue
+WY: Blue
+
+=== Australia — Method 1 — without heuristics ===
+success=True, backtracks=0, elapsed_ns=51100
+NSW: Red
+NT: Red
+QLD: Blue
+SA: Green
+TAS: Red
+VIC: Blue
+WA: Blue
+
+=== Australia — Method 1 — with heuristics ===
+success=True, backtracks=0, elapsed_ns=131700
+NSW: Blue
+NT: Blue
+QLD: Green
+SA: Red
+TAS: Red
+VIC: Green
+WA: Green
